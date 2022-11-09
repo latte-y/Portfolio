@@ -13,9 +13,9 @@
         <br />
         【言語の使用経験】
         <br />
-        C：大学学部の授業、大学院での研究（約5年間使用）
+        C++：大学院での研究（約半年間使用）
         <br />
-        javaScript：webアプリ開発に用いている（約半年間使用）
+        javaScript（Vue.js）：webアプリ開発に用いている（約半年間使用）
       </p>
       <div class="profile">
         <img src="../assets/myphoto.png" alt="" class="me" />

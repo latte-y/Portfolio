@@ -4,17 +4,17 @@
     <div>
       <div class="work">
         <a href="https://bank-app-79d73.web.app/"
-          ><img src="../assets/Web-site-icon.jpeg" alt=""
+          ><img src="../assets/bankApp.png" alt=""
         /></a>
         <h3>銀行アプリ</h3>
         <p>Vueを用いて取引記録が表示されるアプリを作成した。</p>
       </div>
       <div class="work">
-        <a href="https://latte-y.github.io/my-git-practice-app/"
-          ><img src="../assets/Web-site-icon.jpeg" alt=""
+        <a href="https://shikujiri-b81a8.web.app/"
+          ><img src="../assets/shikujiriSensei.png" alt=""
         /></a>
-        <h3>チーム開発によるアプリ</h3>
-        <p>現在開発中！！！</p>
+        <h3>しくじり先生</h3>
+        <p>3人チームで失敗談を投稿するサイトを作成した。</p>
       </div>
     </div>
   </div>
@@ -40,5 +40,8 @@ h1 {
 }
 p {
   margin: 0 auto;
+}
+.work img {
+  width: 50vw;
 }
 </style>
